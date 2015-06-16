@@ -269,29 +269,21 @@ You may also need to ask for less for your first contract and then raise it as y
 IR35 is the United Kingdom tax legislation designed to tax "disguised employment" at a rate similar to employment. 
 It means that if HMRC think you're contracting only to reduce your tax rate but qualify as a permanent employee, you will get a massive tax penalty.
 
-I can not give you a reliable advice here, but please look it up online how to reduce the risk of getting caught by IR35. 
-As far as I understand, it is important to have a contract that allows you to:
+I can not give you a reliable advice here, but please look it up online how to reduce the risk of "getting caught" by IR35. 
+As far as I understand, the most important points in the contract are:
 
-- substitute yourself with another person to meet your obligations to the client i.e. 
-- subcontract the work to someone else or allow another employee of your company to carry it out;
-- have other clients during your contract;
-- cancel your contract with no advance notice or a very short one e.g. up to two weeks.
+- Substitution and Exclusivity. You should be able to substitute yourself with another equally qualified person to meet your obligations to the client, at your own expense.
+- Control. The client should not have control over you e.g. you should be able to have other clients at the same time; less importantly, you should not be restricted to working at a specified location on a specified schedule.
+- Mutuality of obligation e.g. the client does not have to keep giving you work or pay you money when there is no work; likewise, you are not obliged to accept work from the client.
 
-If the client insists on including the clauses above, be ready to move on.
+If the client insists otherwise, be ready to move on.
 
-It also helps if your contract:
-- allows total flexibility on location (i.e. 
-- where the work is completed);
-- has specific, named deliverables or a project you'll be working on (rather than just joining a team and working on whatever is required to keep a software platform going, for example).
+It also helps if your contract
 
-There are also things you should not do as they are treated as signs of disguised employment.
+- has specific, named deliverables or a project you'll be working on (rather than just joining a team and working on whatever is required to keep a software platform going, for example);
+- has a short or no notice period.
 
-- Don't accept paid-for training from your client. This includes conferences, seminars etc.
-- Don't use equipment provided by the client;
-- Be careful with paid-for meals or participating in company parties. 
-- Avoid working for one client for longer than a year when possible.
-
-There is are lot of myths and ambiguities around IR35 among contractors, so use your own judgement or consult a professional if you're in doubt.
+There are a lot of myths and ambiguities around IR35 among contractors, so use your own judgement or consult a professional if you're in doubt. I have not used them myself, but a few people have recommended www.ipse.co.uk. Among other things, they provide IR35 compliant contract templates and [tax investigations insurance](https://www.ipse.co.uk/advice/ir35-insurance), which is helpful if you get categorised as a disguised employee.
 
 # Epilogue
 
