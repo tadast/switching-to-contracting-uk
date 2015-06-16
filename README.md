@@ -259,7 +259,7 @@ Hourly rates will lead to nonsensical time tracking minutia.
 
 If you don't know any friends who could advise you on this topic, there are [websites](http://www.contractorcalculator.co.uk) that help you calculate the  contracting rates for the full time salary you're getting. 
 A good rule of thumb is to multiply the equivalent daily rate by at least 1.5. 
-You may need to adjust it depending on the current situation in the market. 
+You may need to adjust it depending on the current [situation in the market](http://www.itjobswatch.co.uk/contract.aspx). 
 You may also need to ask for less for your first contract and then raise it as you gain confidence and grow your clientele.
 
 
