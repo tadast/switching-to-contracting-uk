@@ -8,7 +8,7 @@ Use my advice on your own responsibility.
 
 
 I have made this a github repo with hope to receive community contributions to fix any inaccuracies, out of date information and typos.
-If you want to suggest any changes, please open a Pull Request or [let me know on twitter](https://twitter.com/tadas_t).
+If you want to suggest any changes, please open a Pull Request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182).
 
 The post contains some affiliate links, they are denoted with `(aff.)`. I am not recommending these services because they have referral deals - any of their competitors do. I am recommending them because they worked really well for me. Moreover, some of them gives you a sign up bonus too.
 
@@ -294,7 +294,7 @@ There is are lot of myths and ambiguities around IR35 among contractors, so use 
 
 # Epilogue
 
-That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request or [let me know on twitter](https://twitter.com/tadas_t). I may write more similar posts in future and the best way to stay up to date is [on twitter](twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
+That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182). I may write more similar posts in future and the best way to stay up to date is [on twitter](twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
 
 A special thanks goes to a friend and a great ruby developer [Mo Baig](https://twitter.com/mo_baig) who has taught me about a lot of the things above.
 
