@@ -111,7 +111,8 @@ There are two types of VAT schemes you can register for: [standard](https://www.
 The former allows you to reclaim VAT on your purchases. 
 You should only consider it if your business will have a lot of expenses. 
 The fixed rate VAT does not let you reclaim VAT, but you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients. 
-So if you're a developer contractor you'll be adding 20% VAT to your client invoices, but only pay 14.5% to HMRC, keeping the remaining 5.5% to the business.
+
+As a company providing software development services you'll be adding 20% VAT to your client invoices. HMRC will take 14.5% of your flat rate turnover. For example, if you charge your client £1000, you'll add 20% VAT, totalling £1200. This is your flat rate turnover. You'll need to pay £1200 * 14.5% = £174 to HMRC. That leaves you with an extra 2.6% (£26.0 in this case) of income.
 
 In short, you should choose the flat rate option. 
 However, your [Crunch](https://www.crunch.co.uk/referrals/?c2c=okdoltdj&forename=Tadas) team will be able to give you a more tailored advice. 
