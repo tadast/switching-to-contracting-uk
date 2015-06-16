@@ -227,9 +227,8 @@ Reaching out to them has landed me two interviews.
 
 ### Recruiters
 
-I'm putting this one as the last resort. 
 I gave it a try despite the bad reputation recruitment agencies have earned amongst developers. 
-I've dealt with 6 different recruiters, 5 of them resulted in utter disappointment.
+I've dealt with 6 different recruiters, 5 of them resulted in utter disappointment. However, [many people](https://news.ycombinator.com/item?id=9726182) have identified this strategy as the easiest one for getting some contract work. Perhaps I was not lucky to find the best recruitment agents to work with.
 
 Here are a few pieces of advice for those who dare going down this route.
 
@@ -239,7 +238,7 @@ Don't sign anything.
 Ask what companies are they recruiting for. 
 If they are not willing to disclose the company names, chances are they've just conducted the "LinkedIn Crawling" step above and are not working for their "clients". 
 They are  merely forwarding your CV to random companies. 
-Don't waste your time with this type. 
+Try to avoid this kind of recruitment agents if possible. 
 Employers do not like dealing with this type of recruiters either.
 
 I've had some friendly conversations with recruiters who would innocently ask general questions about my background. 
