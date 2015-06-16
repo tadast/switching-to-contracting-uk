@@ -150,8 +150,8 @@ Don't forget to expense it :)
 ### Getting a bank account
 
 Most UK banks offer business accounts with similar conditions. 
-Choose the bank you use for your personal finances. 
-This will save you some time learning a new online banking system.
+Some people advise using a different bank than the one you use for your personal finances. 
+This is because some banks may freeze your personal account if your business account gets frozen.
 
 You will need to call the bank and schedule an appointment. 
 In case you chose the Barclay's offer by CompaniesMadeSimple - they will call you. 
