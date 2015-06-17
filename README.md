@@ -95,7 +95,7 @@ Their teams are very responsive via email or phone during business hours.
 
 Crunch also have a nice web-based accounting tool. 
 It helps with tracking expenses, calculating taxes, invoicing your clients etc. 
-The takes care of providing all required information to HMRC. 
+It takes care of providing all required information to HMRC. 
 It also notifies you about important things you need to do, such as tax payment deadlines.
 
 After registering, your dedicated accountant will call at the time convenient to you. 
