@@ -107,14 +107,16 @@ They will also set you up with a VAT.
 
 ### Registering for VAT
 
-There are two types of VAT schemes you can register for: [standard](https://www.gov.uk/vat-rates) and [fixed rate VAT](https://www.gov.uk/vat-flat-rate-scheme/overview). 
-The former allows you to reclaim VAT on your purchases. 
-You should only consider it if your business will have a lot of expenses. 
-The fixed rate VAT does not let you reclaim VAT, but you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients. 
+There are two types of VAT schemes you can register for: [standard](https://www.gov.uk/vat-rates) and [flat rate VAT](https://www.gov.uk/vat-flat-rate-scheme/overview). 
+The former allows you to reclaim VAT on all your purchases. You should only consider it if your business will have a lot of expenses that are subject to VAT.
 
-As a company providing software development services you'll be adding 20% VAT to your client invoices. HMRC will take 14.5% of your flat rate turnover. For example, if you charge your client £1000, you'll add 20% VAT, totalling £1200. This is your flat rate turnover. You'll need to pay £1200 * 14.5% = £174 to HMRC. That leaves you with an extra 2.6% (£26.0 in this case) of income.
+On the flat rate scheme [you can still claim back VAT for capital purchases over £2000](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#reclaim-of-vat-on-capital-expenditure-goods), though -- like if you buy a top of the line new macbook pro.
 
-In short, you should choose the flat rate option. 
+The  flat rate scheme does not let you reclaim VAT, but you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients.
+
+As a company providing software development services you'll be adding 20% VAT to your client invoices. HMRC will take 14.5% of your flat rate turnover. For example, if you charge your client £1000, you'll add 20% VAT, totalling £1200. This is your flat rate turnover. You'll need to pay £1200 * 14.5% = £174 to HMRC. That leaves you with an extra 2.6% (£26.00 in this case) of income.
+
+In short, you should choose the flat rate option, unless you're planning to subcontract to other VAT registered contractors. 
 However, your [Crunch](https://www.crunch.co.uk/referrals/?c2c=okdoltdj&forename=Tadas) team will be able to give you a more tailored advice. 
 They will also register you for VAT without any extra cost.
 
