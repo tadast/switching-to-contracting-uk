@@ -134,7 +134,7 @@ The service address is the official contact address of the director.
 Personal statutory mail and notices from Companies House and HMRC will be sent there. 
 Normally, this would be set to your office or residential address. 
 Exposing your residential address increases risk of identity fraud. 
-That's why you should get the "London business address" add-on provided by [www.formationsfactory.co.uk](www.formationsfactory.co.uk). 
+That's why you should get the "London business address" add-on provided by [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk). 
 You can then set your service address to the one provided by the service.
 
 The registered address is the official address of your company. 
