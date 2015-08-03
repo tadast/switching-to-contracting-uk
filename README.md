@@ -8,7 +8,7 @@ Use my advice on your own responsibility.
 
 
 I have made this a github repo with hope to receive community contributions to fix any inaccuracies, out of date information and typos.
-If you want to suggest any changes, please open a Pull Request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182).
+If you want to suggest any changes, please open a Pull Request or [let me know on twitter](https://twitter.com/tadas_t). You can read the discussions on Hacker News [here](https://news.ycombinator.com/item?id=9726182) and [here](https://news.ycombinator.com/item?id=9980264).
 
 The post contains some affiliate links, they are denoted with `(aff.)`. I am not recommending these services because they have referral deals - any of their competitors do. I am recommending them because they worked really well for me. Moreover, some of them gives you a sign up bonus too.
 
