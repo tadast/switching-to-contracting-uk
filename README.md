@@ -237,6 +237,10 @@ Reaching out to them has landed me two interviews.
 I gave it a try despite the bad reputation recruitment agencies have earned amongst developers. 
 I've dealt with 6 different recruiters, 5 of them resulted in utter disappointment. However, [many people](https://news.ycombinator.com/item?id=9726182) have identified this strategy as the easiest one for getting some contract work. Perhaps I was not lucky to find the best recruitment agents to work with.
 
+One potential issue with dealing with Recruiting Agents is their commission: on a contract this may be as much as '*[10% to at least 25%.](http://www.contractoruk.com/news/0010852it_contractors_tot_agency_commission.html)*', i.e a £350 per day contract may have as much as £87 of daily commission paid to the agent. It's worth remembering this, as this comes directly from the client's budget, and demonstrates another way in which contracting directly to the client provides advantages to both parties.
+
+Whilst recruiting agents can prove to be useful for times where it's difficult to find work using your existing network, it's worth highlighting that once you have been introduced to a client via a recruiting agent - you will need to seek the recruiting agent's permission to work with them directly in the future; as any subsequent work will also see the recruiting agent due a commission.
+
 Here are a few pieces of advice for those who dare going down this route.
 
 Recruiters will email you with vague information about positions for unidentifiable clients. 
