@@ -151,7 +151,7 @@ If you use the setup above, your personal  address will not be visible publicly.
 Most of the clients ask for [professional Indemnity Insurance](http://en.wikipedia.org/wiki/Professional_liability_insurance). 
 This ensures that any loss incurred to their business as a cause of your negligence is insured. 
 No need to rush with this one, your clients will let you know their liability requirements. 
-Once you know the requirements, you can use [SimplyBusiness (aff.)](http://www.simplybusiness.co.uk/?ref_id=RAF_WBPR276336XB) to compare the quotes and buy insurance online. 
+Once you know the requirements, you can use [SimplyBusiness (aff.)](http://www.simplybusiness.co.uk/?ref_id=RAF_WBPR638804XB) to compare the quotes and buy insurance online. 
 Don't forget to expense it :)
 
 ### Getting a bank account
