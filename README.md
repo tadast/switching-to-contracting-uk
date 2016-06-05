@@ -18,10 +18,15 @@ The post contains some affiliate links, they are denoted with `(aff.)`. I am not
 There is no easy way to tell when is the best time to do it. 
 However, there are some preconditions and concerns that may impact your decision.
 
+In an ideal scenario, you should finish your previous work on Friday and start on a Monday.
+If you don't have a signed contract in hand and wish to quit work before applying for a contract, you need to build up savings before hand - please refer to the warchest section for more details on that.
+
+In an ideal scenario, you should get your first contract from a personal connection, perhaps a past employee and not rely too much on the broaded job market.
+
 
 ### Financial stability
 
-You should have savings to cover at least 4 months of your usual expenses. 
+You should have savings to cover at least 6 months of your usual expenses. 
 You will spend some money establishing a company. 
 It may take several weeks to find your first contract. 
 Even if you're lucky enough to sign a contract immediately, you may need to wait a month to invoice your client and another month to get it paid. 
@@ -29,6 +34,11 @@ In short, most likely you'll not be able to withdraw any money from your busines
 
 Also, you may have unexpected expenses, because life.
 
+As you start receiving the payment, you need to understand that this is you Ltd company money, not your private account.
+You need to set aside money for Corporation Tax, VAT and expense and you can only withdraw from the rest and this will be taxable on both ends - as company profix (so subject to CT) and your profit - subject to 'normal' income taxation.
+
+Finally, as you carry on doing contract work you need to maintain the same level of savings set aside, referred to as a 'warchest'.
+The most tax efficient way of doing this is by keeping the money in the company account. You can then choose what do with the money at a later date - typically this means you can keep paying yourself between contracts.
 
 ### Am I ready?
 
@@ -166,6 +176,14 @@ It may take up to four weeks to get an appointment slot if you're in London.
 Do it as soon as you incorporate your company. 
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need. 
 It took 2 days after the appointment to open my account.
+
+### Paying yourself
+
+The most tax efficient (and absolutely legal) way of paying yourself in the UK (assuming no other sources of income) is as follows:
+1. A base salary up to approximately 10000GBP (this amount is adjusted every year by HMRC) which is basically tax free.
+2. Pay the rest in dividends.
+3. Computer equipment, software, travel accommodation, can all be treated as expenses so while technically not income, you not have to use 1 and 2 for the things you need for work.
+Your accountant can and should also advise you on that.
 
 
 ### Expenses
