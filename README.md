@@ -29,7 +29,6 @@ In short, most likely you'll not be able to withdraw any money from your busines
 
 Also, you may have unexpected expenses, because life.
 
-
 ### Am I ready?
 
 One of the biggest concerns for me was confidence. 
@@ -55,6 +54,10 @@ Moving a flat, getting a mortgage, and anything else that requires you to prove 
 Needless to say events like this often require upfront payments. 
 So plan accordingly.
 
+### Mortgage
+
+It is easier to get a mortgage if you're employed full-time. 
+While it's not impossible to get one as a contractor, you might want to conduct some more research if you're planning to buy a property in near future. In some cases it might be worth delaying your move to contracting.
 
 ## Bureaucracy
 
