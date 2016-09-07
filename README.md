@@ -100,10 +100,10 @@ It helps with tracking expenses, calculating taxes, invoicing your clients etc.
 It takes care of providing all required information to HMRC. 
 It also notifies you about important things you need to do, such as tax payment deadlines.
 
-After registering, your dedicated accountant will call at the time convenient to you. 
+After registering, your dedicated account manager will call at the time convenient to you. 
 During the first call they will get to know you and your business. 
-Then they will explain you how to pay yourself to remain tax efficient. 
-They will also set you up with a VAT.
+Then they will explain how to pay yourself in a way that's tax efficient. 
+They will also discuss registering your company for VAT.
 
 
 
