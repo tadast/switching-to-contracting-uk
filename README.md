@@ -57,7 +57,7 @@ So plan accordingly.
 ### Mortgage
 
 It is easier to get a mortgage if you're employed full-time. 
-While it's not impossible to get one as a contractor, you might want to conduct some more research if you're planning to buy a property in near future. In some cases it might be worth delaying your move to contracting.
+While it's not impossible to get one as a contractor, you might want to conduct some more research if you're planning to buy a property in near future. [Contractor Financials](https://www.contractorfinancials.com/mortgages) might be a good starting point to get a feel for the kind of quotes you can get - they typically provide options from the major banks based on your day rate rather than your company's accounts. In some cases it might be worth delaying your move to contracting.
 
 ## Bureaucracy
 
