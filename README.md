@@ -71,8 +71,8 @@ You can consider becoming a sole trader, but if you're planning to earn £50,000
 You can incorporate a company online. 
 You can do it in advance, no extra work is required until you start trading.
 
-A service like [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk/) will make the incorporation process easy. 
-It usually takes up to three business hours. 
+A service like [www.rapidformations.co.uk](https://www.rapidformations.co.uk/) will make the incorporation process easy.
+It usually takes up to three business hours.
 The most difficult thing will be choosing the company name :)
 I'd recommend getting the "London business address" add-on. 
 It allows you to set your company's Service Address in order to protect your name and address from identity fraud attempts. 
@@ -137,7 +137,7 @@ The service address is the official contact address of the director.
 Personal statutory mail and notices from Companies House and HMRC will be sent there. 
 Normally, this would be set to your office or residential address. 
 Exposing your residential address increases risk of identity fraud. 
-That's why you should get the "London business address" add-on provided by [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk). 
+That's why you should get the "London business address" add-on provided by [www.rapidformations.co.uk](https://www.rapidformations.co.uk). 
 You can then set your service address to the one provided by the service.
 
 The registered address is the official address of your company. 
@@ -164,7 +164,7 @@ Some people advise using a different bank than the one you use for your personal
 This is because some banks may freeze your personal account if your business account gets frozen.
 
 You will need to call the bank and schedule an appointment. 
-In case you chose the business banking offer by Formations Factory - they will call you in 48 hours. 
+In case you chose the business banking offer by Rapid Formations - they will call you in 48 hours. 
 It may take up to four weeks to get an appointment slot if you're in London. 
 Do it as soon as you incorporate your company. 
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need. 
