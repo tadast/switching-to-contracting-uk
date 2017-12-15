@@ -302,6 +302,6 @@ There are a lot of myths and ambiguities around IR35 among contractors, so use y
 
 That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182). I may write more similar posts in future and the best way to stay up to date is [on twitter](https://twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
 
-A special thanks goes to a friend and a great ruby developer [Mo Baig](https://twitter.com/mo_baig) who has taught me about a lot of the things above.
+A special thanks goes to a friend and a great ruby developer [Malcolm Baig](https://twitter.com/MalcolmBaig) who has taught me about a lot of the things above.
 
 
