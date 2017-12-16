@@ -71,15 +71,16 @@ You can consider becoming a sole trader, but if you're planning to earn £50,000
 You can incorporate a company online. 
 You can do it in advance, no extra work is required until you start trading.
 
-A service like [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk/) will make the incorporation process easy. 
+A service like [www.companiesmadesimple.com (aff.)](http://www.companiesmadesimple.com/?utm_source=www.okdo.co.uk&utm_medium=affiliate&utm_campaign=affiliate-link) will make the incorporation process easy. 
 It usually takes up to three business hours. 
 The most difficult thing will be choosing the company name :)
-I'd recommend getting the "London business address" add-on. 
-It allows you to set your company's Service Address in order to protect your name and address from identity fraud attempts. 
+I'd recommend getting the most popular "Privacy Package". 
+You need the first three items in the "What You Get In Each Of Our Packages" table, and the Service Address. 
+The Service Address helps to protect your name and address from identity fraud attempts. 
 I will revisit this topic further below.
 
-They also offer a lot of extra services, but most likely you won't need any of them e.g "London registered office" equivalent will be provided by Crunch (see below) free of charge. 
-The only other valuable service is a free business account setup with Barclay's or Lloyds. 
+They also offer a lot of third-party service deals. 
+The only valuable one is a business account with Barclay's that gives you £50 cash back. 
 More information about setting up a business bank account is provided below.
 
 Pay for the company incorporation from your personal bank account, you will expense it later.
@@ -137,7 +138,7 @@ The service address is the official contact address of the director.
 Personal statutory mail and notices from Companies House and HMRC will be sent there. 
 Normally, this would be set to your office or residential address. 
 Exposing your residential address increases risk of identity fraud. 
-That's why you should get the "London business address" add-on provided by [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk). 
+That's why you should get the Privacy Package provided by CompaniesMadeSimple. 
 You can then set your service address to the one provided by the service.
 
 The registered address is the official address of your company. 
@@ -164,7 +165,7 @@ Some people advise using a different bank than the one you use for your personal
 This is because some banks may freeze your personal account if your business account gets frozen.
 
 You will need to call the bank and schedule an appointment. 
-In case you chose the business banking offer by Formations Factory - they will call you in 48 hours. 
+In case you chose the Barclay's offer by CompaniesMadeSimple - they will call you. 
 It may take up to four weeks to get an appointment slot if you're in London. 
 Do it as soon as you incorporate your company. 
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need. 
