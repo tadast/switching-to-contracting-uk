@@ -139,11 +139,10 @@ As a rule of thumb:
 
 - annual turnover < £85k : no need to register, unless you'll be buying a lot stuff
 - £85k < annual turnover < £150k: Flat Rate scheme, for simplicity, unless you'll be buying a lot of stuff
-- > £150k: you must register for a Standard VAT scheme
+- \> £150k: you must register for a Standard VAT scheme
 
 Your [Crunch](https://www.crunch.co.uk/referrals/?c2c=okdoltdj&forename=Tadas) team will give you a more tailored advice.
 They will also register you for VAT without any extra cost.
-
 
 ### A note on addresses
 
