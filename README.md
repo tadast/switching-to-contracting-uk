@@ -62,9 +62,8 @@ While it's not impossible to get one as a contractor, you might want to conduct 
 ## Bureaucracy
 
 Inevitably, there will be some research to do, some phone calls to make and some papers to fill before you can call yourself a business owner.
-By that I'm suggesting you incorporate and Ltd.
+By that I'm suggesting you incorporate a Ltd.
 You can consider becoming a sole trader, but if you're planning to earn £50,000 or more, go for a Ltd.
-
 
 ### Incorporating a limited company
 
