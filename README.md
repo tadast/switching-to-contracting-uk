@@ -109,7 +109,7 @@ They will also discuss registering your company for VAT.
 
 ### Registering for VAT
 
-If your annual turnover is (or you expect it to be) £85.000 or more you must register for VAT (there might be other criteria too)[https://www.gov.uk/vat-registration/when-to-register].
+If your annual turnover is (or you expect it to be) £85.000 or more you must register for VAT ([there might be other criteria too](https://www.gov.uk/vat-registration/when-to-register)).
 
 You can still register for VAT below that threshold, because the standard VAT scheme allows you to reclaim VAT on your business purchases.
 
