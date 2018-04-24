@@ -184,6 +184,8 @@ Do it as soon as you incorporate your company.
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need.
 It took 2 days after the appointment to open my account.
 
+There is a plethora of new start-ups offering business bank accounts that are much quicker to setup compared to traditional high street banks, e.g. Starling, Revolut, Tide, etc. Ideally make sure they are UK FSA regulated and have FSCS deposit protection. You can get an account setup in one day all from your mobile phone without having to wait weeks for appointments.
+
 
 ### Expenses
 
