@@ -109,19 +109,19 @@ They will also discuss registering your company for VAT.
 
 ### Registering for VAT
 
-If your annual turnover is (or you expect it to be) £85.000 or more you must register for VAT ([there might be other criteria too](https://www.gov.uk/vat-registration/when-to-register)).
+If your annual turnover is (or you expect it to be) £85,000 or more you must register for VAT ([there might be other criteria too](https://www.gov.uk/vat-registration/when-to-register)).
 
 You can still register for VAT below that threshold, because the standard VAT scheme allows you to reclaim VAT on your business purchases.
 
 Reasons you might not want to register for VAT if you're below the threshold:
-- You expect to work with very small clients (below £150.000 annual income) that are on a Flat Rate VAT scheme (more below) and can't claim back VAT from your services.
+- You expect to work with very small clients (below £150,000 annual income) that are on a Flat Rate VAT scheme (more below) and can't claim back VAT from your services.
 - You expect to work with clients abroad via your Ltd. They might not be able to re-claim VAT, making your services more expensive to them.
 
 There are two types of VAT schemes you can register for: [Standard](https://www.gov.uk/vat-rates) and [Flat Rate VAT](https://www.gov.uk/vat-flat-rate-scheme/overview).
 The Standard scheme allows you to reclaim VAT on all your purchases.
 You should consider it if your business will have a lot of expenses that are subject to VAT.
 
-The flat rate scheme is for [small business](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#basics-of-the-flat-rate-scheme) (income under £150.000) and allows you to [claim back VAT only for capital purchases over £2000](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#reclaim-of-vat-on-capital-expenditure-goods), for example, if you buy a top of the line new MacBook Pro.
+The flat rate scheme is for [small business](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#basics-of-the-flat-rate-scheme) (income under £150,000) and allows you to [claim back VAT only for capital purchases over £2000](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#reclaim-of-vat-on-capital-expenditure-goods), for example, if you buy a top of the line new MacBook Pro.
 
 The Flat Rate scheme does not let you reclaim VAT, but it has very little administrative overhead and you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients.
 The difference is small as of the recent budget changes, but it adds up over time.
@@ -129,10 +129,10 @@ The difference is small as of the recent budget changes, but it adds up over tim
 For example, as a company providing software development services you'll be adding 20% VAT to your client invoices.
 HMRC will take slightly less than that of your flat rate turnover, e.g. 16.5%.
 The flat rate percentage [may vary in your case](https://www.tax.service.gov.uk/check-your-vat-flat-rate/vat-return-period).
-For example, if you charge your client £10000, you'll add 20% VAT, totalling £12000.
+For example, if you charge your client £10,000, you'll add 20% VAT, totalling £12,000.
 This is your flat rate turnover.
-You'll need to pay £12000 * 16.5% = £1980 to HMRC.
-That leaves you with an extra £20.00 of income.
+You'll need to pay £12,000 * 16.5% = £1980 to HMRC.
+That leaves you with an extra £20 of income.
 
 As a rule of thumb:
 
