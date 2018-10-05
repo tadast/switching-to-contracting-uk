@@ -168,7 +168,7 @@ If you use the setup above, your personal  address will not be visible publicly.
 Most of the clients ask for [professional Indemnity Insurance](http://en.wikipedia.org/wiki/Professional_liability_insurance).
 This ensures that any loss incurred to their business as a cause of your negligence is insured.
 No need to rush with this one, your clients will let you know their liability requirements.
-Lately I've been happily using [Hiscox](https://www.hiscox.co.uk/), but it's also worth checking out [SimplyBusiness](http://www.simplybusiness.co.uk) to compare the quotes from other providers.
+Lately I've been happily using [Hiscox](https://www.hiscox.co.uk/), but it's also worth checking out [SimplyBusiness](http://www.simplybusiness.co.uk) to compare the quotes from other providers. [Jack](https://withjack.co.uk/) is also worth checking out - they provide insurance tailored towards contractors and freelancers.
 Don't forget to expense it :)
 
 ### Getting a bank account
