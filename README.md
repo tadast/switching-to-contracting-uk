@@ -78,10 +78,6 @@ You need the first three items in the "What You Get In Each Of Our Packages" tab
 The Service Address helps to protect your name and address from identity fraud attempts.
 I will revisit this topic further below.
 
-They also offer a lot of third-party service deals.
-The only valuable one is a business account with Barclay's that gives you £50 cash back.
-More information about setting up a business bank account is provided below.
-
 Pay for the company incorporation from your personal bank account, you will expense it later.
 
 
@@ -177,15 +173,17 @@ Most UK banks offer business accounts with similar conditions.
 Some people advise using a different bank than the one you use for your personal finances.
 This is because some banks may freeze your personal account if your business account gets frozen.
 
-You will need to call the bank and schedule an appointment.
-In case you chose the Barclay's offer by CompaniesMadeSimple - they will call you.
+There is a plethora of new start-ups offering business bank accounts that are much quicker to setup compared to traditional high street banks.
+When doing your reaserch, make sure the bank is UK FSA regulated and has FSCS deposit protection.
+A good example of such a bank is [Starling](https://www.starlingbank.com/business-account/).
+[Monzo](https://monzo.com/business/) seem to be working on business accounts too.
+You can get an account setup in one day, all from your mobile phone, without having to wait weeks for appointments.
+
+If you decide to go with a high street bank, you might need to call the bank and schedule an appointment.
 It may take up to four weeks to get an appointment slot if you're in London.
 Do it as soon as you incorporate your company.
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need.
 It took 2 days after the appointment to open my account.
-
-There is a plethora of new start-ups offering business bank accounts that are much quicker to setup compared to traditional high street banks, e.g. Starling, Revolut, etc. Ideally make sure they are UK FSA regulated and have FSCS deposit protection. You can get an account setup in one day all from your mobile phone without having to wait weeks for appointments.
-
 
 ### Expenses
 
