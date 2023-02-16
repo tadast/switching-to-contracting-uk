@@ -175,9 +175,9 @@ This is because some banks may freeze your personal account if your business acc
 
 There is a plethora of new start-ups offering business bank accounts that are much quicker to setup compared to traditional high street banks.
 When doing your reaserch, make sure the bank is UK FSA regulated and has FSCS deposit protection.
-A good example of such a bank is [Starling](https://www.starlingbank.com/business-account/).
-[Monzo](https://monzo.com/business/) seem to be working on business accounts too.
-You can get an account setup in one day, all from your mobile phone, without having to wait weeks for appointments.
+Dood examples of such a banks are [Starling](https://www.starlingbank.com/business-account/), 
+[Monzo](https://monzo.com/business/) and [Mettle](https://www.mettle.co.uk).
+You can set up an account in one day, all from your mobile phone, without having to wait weeks for appointments.
 
 If you decide to go with a high street bank, you might need to call the bank and schedule an appointment.
 It may take up to four weeks to get an appointment slot if you're in London.
