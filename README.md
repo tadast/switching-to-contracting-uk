@@ -4,13 +4,20 @@ After delaying it for more than a year I have finally made the big move from a s
 One of the biggest reasons for delaying the move was not knowing the technicalities of getting all the machinery up and running.
 The main goal of this document is to provide an easily replicable process you can follow to become a contractor.
 I can not claim it is the best process to follow, but it has worked for me and other people who have advised me.
-Use my advice on your own responsibility.
+Use my advice at your own risk.
 
+The post contains some affiliate links, they are denoted with `(aff.)`. I am genuinelly recommending these services because they worked really well for me. Moreover, some of them gives you a sign up bonus too.
+
+## Community and contributing
 
 I have made this a github repo with hope to receive community contributions to fix any inaccuracies, out of date information and typos.
-If you want to suggest any changes, please open a Pull Request or [let me know on twitter](https://twitter.com/tadas_t). You can read the discussions on Hacker News [here](https://news.ycombinator.com/item?id=9726182) and [here](https://news.ycombinator.com/item?id=9980264).
+If you want to suggest any changes, please open a Pull Request or [let me know on twitter](https://twitter.com/tadas_t).
 
-The post contains some affiliate links, they are denoted with `(aff.)`. I am not recommending these services because they have referral deals - any of their competitors do. I am recommending them because they worked really well for me. Moreover, some of them gives you a sign up bonus too.
+
+**We also have a [Community Discord server](https://discord.gg/uteWnwP9CU) where you can ask any questions, share tips and find new gigs.**
+
+You can read the discussions on the launch of this guide on Hacker News [here](https://news.ycombinator.com/item?id=9726182) and [here](https://news.ycombinator.com/item?id=9980264).
+
 
 
 ## When is the best time to transition?
@@ -43,7 +50,8 @@ You may not wait this long, because, although harder to come across, there are a
 ### Timing
 
 Timing matters.
-The contracting market has its own trends over the year.
+The contracting market has its own trends over the year. From my experience it slows down around August, November and December, then peeks in February and April.
+
 Sometimes there are [unpredictable droughts](https://medium.com/@louisror/the-uk-ruby-contract-drought-is-real-27-feb-2015-fbac443b81da) though.
 You can get a sense of the trends by looking at the number of recruiter emails you receive.
 Browsing through job boards and local meetup group mailing lists is also helpful.
@@ -57,7 +65,7 @@ So plan accordingly.
 ### Mortgage
 
 It is a bit easier to get a mortgage if you're employed full-time.
-However, there are a few contractor-friendly lenders too. You might want to conduct some more research if you're planning to buy a property in near future. [Contractor Financials](https://www.contractorfinancials.com/mortgages) might be a good starting point to get a feel for the kind of quotes you can get - they typically provide options from the major banks based on your day rate rather than your company's accounts.
+However, there are a few contractor-friendly lenders too (e.g. Halifax, Natwest). You might want to conduct some more research if you're planning to buy a property in near future. [Contractor Financials](https://www.contractorfinancials.com/mortgages) might be a good starting point to get a feel for the kind of quotes you can get - they typically provide options from the major banks based on your day rate rather than your company's accounts.
 
 ## Bureaucracy
 
@@ -98,6 +106,7 @@ It also notifies you about important things you need to do, such as tax payment 
 
 After registering, your dedicated account manager will call at the time convenient to you.
 During the first call they will get to know you and your business.
+**They might try and sell you a premium plan, but you will most likely need only the cheapest available plan for Limited companies, which is called "Limited Company Pro" and is £79.50 at the time of writing this.**
 Then they will explain how to pay yourself in a way that's tax efficient.
 They will also discuss registering your company for VAT.
 
@@ -119,22 +128,14 @@ You should consider it if your business will have a lot of expenses that are sub
 
 The flat rate scheme is for [small business](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#basics-of-the-flat-rate-scheme) (income under £150,000) and allows you to [claim back VAT only for capital purchases over £2000](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#reclaim-of-vat-on-capital-expenditure-goods), for example, if you buy a top of the line new MacBook Pro.
 
-The Flat Rate scheme does not let you reclaim VAT, but it has very little administrative overhead and you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients.
-The difference is small as of the recent budget changes, but it adds up over time.
-
-For example, as a company providing software development services you'll be adding 20% VAT to your client invoices.
-HMRC will take slightly less than that of your flat rate turnover, e.g. 16.5%.
-The flat rate percentage [may vary in your case](https://www.tax.service.gov.uk/check-your-vat-flat-rate/vat-return-period).
-For example, if you charge your client £10,000, you'll add 20% VAT, totalling £12,000.
-This is your flat rate turnover.
-You'll need to pay £12,000 * 16.5% = £1980 to HMRC.
-That leaves you with an extra £20 of income.
+The Flat Rate scheme does not let you reclaim VAT, but it has very little administrative overhead and you [pay a slighly lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients.
+The monetary benefit is almost negligible in most cases, but it can add up over time.
 
 As a rule of thumb:
 
 - annual turnover < £85k : no need to register, unless you'll be buying a lot stuff
-- £85k < annual turnover < £150k: Flat Rate scheme, for simplicity, unless you'll be buying a lot of stuff
-- \> £150k: you must register for a Standard VAT scheme
+- £85k < annual turnover < £150k AND your business expenses are relatively low: Flat Rate scheme, for simplicity
+- \> £150k OR relatively high business expenses: Standard VAT scheme
 
 Your [Crunch](https://www.crunch.co.uk/referrals/?c2c=okdoltdj&forename=Tadas) team will give you a more tailored advice.
 They will also register you for VAT without any extra cost.
@@ -152,11 +153,10 @@ You can then set your service address to the one provided by the service.
 
 The registered address is the official address of your company.
 This address is used by Companies House and HMRC to deliver statutory company mail and notices to the company.
-Crunch will become your agent and thus set the registered address to their address.
+Crunch or your accountant will become your agent and thus can set the registered address to their address.
 
 Both services will filter out junk mail and forward important letters to your personal address.
-If you use the setup above, your personal  address will not be visible publicly.
-
+If you use the setup above, your personal address will not be visible publicly.
 
 
 ### Professional indemnity insurance
@@ -175,7 +175,7 @@ This is because some banks may freeze your personal account if your business acc
 
 There is a plethora of new start-ups offering business bank accounts that are much quicker to setup compared to traditional high street banks.
 When doing your reaserch, make sure the bank is UK FSA regulated and has FSCS deposit protection.
-Dood examples of such a banks are [Starling](https://www.starlingbank.com/business-account/), 
+Good examples of such a banks are [Starling](https://www.starlingbank.com/business-account/),
 [Monzo](https://monzo.com/business/) and [Mettle](https://www.mettle.co.uk).
 You can set up an account in one day, all from your mobile phone, without having to wait weeks for appointments.
 
@@ -183,17 +183,18 @@ If you decide to go with a high street bank, you might need to call the bank and
 It may take up to four weeks to get an appointment slot if you're in London.
 Do it as soon as you incorporate your company.
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need.
-It took 2 days after the appointment to open my account.
+It took 2 days after the appointment to open my first account. I've since switched to Starling and am happy with their services.
 
 ### Expenses
 
 The services above will cost you some money.
 Pay for them from your personal account.
-Make sure to keep the (email) receipts.
-Once you sign up with Crunch, add all expenses to their system as 'Paid by director'.
+Make sure to keep the (email) receipts and invoices.
+Once you sign up with Crunch, add all expenses to their system as 'Paid by director personally'.
 Once your client pays the first invoice, you can transfer the money back to your personal account.
 
 ## Finding your first client
+
 Finding your first client might be hard.
 The good news is: the first one is the hardest.
 What makes finding the first client hard, at least if you're a programmer, is the fact that most companies are looking for a contractor to start working immediately.
@@ -210,8 +211,6 @@ I got my first contract in two weeks time.
 
 ### Mailing lists and communities
 
-I'm putting it first, because my email to the [LRUG](http://lrug.org/) mailing list has led to three promising reach-outs (I'm excluding emails from recruitment agents).
-One of them resulted in my first contract.
 If you've been programming for a while you should know about similar local professional communities, forums and mailing lists.
 If not, [www.meetup.com](http://www.meetup.com/) is good place to discover them.
 
@@ -232,7 +231,7 @@ This will result in unwanted frequent calls from recruitment agents for years to
 
 Reach out to your friends and ex-colleagues working for companies that may use your services.
 This is also a great chance to catch up with some great people you haven't seen in a while.
-I've worked for only three companies that use Ruby before, this approach has resulted in two interviews.
+I've worked for only three companies that before contracting, this approach has resulted in two interviews.
 
 
 ### Crawling LinkedIn
@@ -265,7 +264,7 @@ Sometimes they will ask you to sign an agreement that you will not try to circum
 Don't sign anything.
 Ask what companies are they recruiting for.
 If they are not willing to disclose the company names, chances are they've just conducted the "LinkedIn Crawling" step above and are not working for their "clients".
-They are  merely forwarding your CV to random companies.
+They are merely forwarding your CV to random companies.
 Try to avoid this kind of recruitment agents if possible.
 Employers do not like dealing with this type of recruiters either.
 
@@ -285,7 +284,7 @@ Always charge for your work on a daily basis.
 Rate per project will lead to working much more than you anticipated, because the scope of the project will definitely grow.
 Hourly rates will lead to nonsensical time tracking minutia.
 
-If you don't know any friends who could advise you on this topic, there are [websites](http://www.contractorcalculator.co.uk) that help you calculate the  contracting rates for the full time salary you're getting.
+If you don't know any friends who could advise you on this topic, there are [websites](http://www.contractorcalculator.co.uk) that help you calculate the contracting rates for the full time salary you're getting.
 A good rule of thumb is to multiply the equivalent daily rate by at least 1.5.
 You may need to adjust it depending on the current [situation in the market](http://www.itjobswatch.co.uk/contract.aspx).
 You may also need to ask for less for your first contract and then raise it as you gain confidence and grow your clientele.
@@ -314,7 +313,7 @@ There are a lot of myths and ambiguities around IR35 among contractors, so use y
 
 # Epilogue
 
-That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182). I may write more similar posts in future and the best way to stay up to date is [on twitter](https://twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
+That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request, [join our Community Discord server](https://discord.gg/uteWnwP9CU) or [let me know on twitter](https://twitter.com/tadas_t). I may write more similar posts in future and the best way to stay up to date is [on twitter](https://twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
 
 A special thanks goes to a friend and a great ruby developer [Malcolm Baig](https://twitter.com/MalcolmBaig) who has taught me about a lot of the things above.
 
