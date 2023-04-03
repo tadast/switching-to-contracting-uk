@@ -106,7 +106,7 @@ It also notifies you about important things you need to do, such as tax payment 
 
 After registering, your dedicated account manager will call at the time convenient to you.
 During the first call they will get to know you and your business.
-**They might try and sell you a premium plan, but you will most likely need only the cheapest available plan for Limited companies, which is called "Limited Company Pro" and is £79.50 at the time of writing this.**
+**They might try and sell you a premium plan, but you will most likely need only the cheapest available plan for Limited companies, which is called "Limited Company Pro" with Year End Accounts and is £79.50 at the time of writing this.**
 Then they will explain how to pay yourself in a way that's tax efficient.
 They will also discuss registering your company for VAT.
 
