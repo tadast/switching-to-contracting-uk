@@ -298,18 +298,18 @@ It means that if HMRC think you're contracting only to reduce your tax rate but 
 I can not give you a reliable advice here, but please look it up online how to reduce the risk of "getting caught" by IR35.
 As far as I understand, the most important points in the contract are:
 
-- Substitution and Exclusivity. You should be able to substitute yourself with another equally qualified person to meet your obligations to the client, at your own expense.
+- Substitution and Exclusivity. You should have a right to substitute yourself with another equally qualified person to meet your obligations to the client, at your own expense.
 - Control. The client should not have control over you e.g. you should be able to have other clients at the same time; less importantly, you should not be restricted to working at a specified location on a specified schedule.
 - Mutuality of obligation e.g. the client does not have to keep giving you work or pay you money when there is no work; likewise, you are not obliged to accept work from the client.
 
-If the client insists otherwise, be ready to move on.
+If the client insists otherwise, be ready to move on or adjust your daily rate accordingly.
 
 It also helps if your contract
 
 - has specific, named deliverables or a project you'll be working on (rather than just joining a team and working on whatever is required to keep a software platform going, for example);
 - has a short or no notice period.
 
-There are a lot of myths and ambiguities around IR35 among contractors, so use your own judgement or consult a professional if you're in doubt. I have not used them myself, but a few people have recommended www.ipse.co.uk. Among other things, they provide IR35 compliant contract templates and [tax investigations insurance](https://www.ipse.co.uk/advice/ir35-insurance), which is helpful if you get categorised as a disguised employee.
+There are a lot of myths and ambiguities around IR35 among contractors, so use your own judgement or test your contract agains [this gov.uk questionnaire](https://www.gov.uk/guidance/check-employment-status-for-tax), or consult a professional if you're in doubt. I have not used them myself, but a few people have recommended www.ipse.co.uk. Among other things, they provide IR35 compliant contract templates and [tax investigations insurance](https://www.ipse.co.uk/advice/ir35-insurance), which is helpful if you get categorised inside IR35 after an HMRC investigation.
 
 # Epilogue
 
