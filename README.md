@@ -14,7 +14,7 @@ I have made this a github repo with hope to receive community contributions to f
 If you want to suggest any changes, please open a Pull Request or [let me know on twitter](https://twitter.com/tadas_t).
 
 
-**We also have a [Community Discord server](https://discord.gg/uteWnwP9CU) where you can ask any questions, share tips and find new gigs.**
+**We also have a Community Discord server [UKIT contractors](https://discord.gg/uteWnwP9CU) where you can ask any questions, share tips and find new gigs.**
 
 You can read the discussions on the launch of this guide on Hacker News [here](https://news.ycombinator.com/item?id=9726182) and [here](https://news.ycombinator.com/item?id=9980264).
 
