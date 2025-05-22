@@ -78,13 +78,13 @@ You can consider becoming a sole trader, but if you're planning to earn £50,000
 You can incorporate a company online.
 You can do it in advance, no extra work is required until you start trading.
 
-A service like [www.companiesmadesimple.com (aff.)](http://www.companiesmadesimple.com/?utm_source=www.okdo.co.uk&utm_medium=affiliate&utm_campaign=affiliate-link) will make the incorporation process easy.
+A service like [http://www.companiesmadesimple.com/compare-packages (aff.)](http://www.companiesmadesimple.com/compare-packages?utm_source=www.okdo.co.uk&utm_medium=affiliate&utm_campaign=affiliate-link) will make the incorporation process easy.
 It usually takes up to three business hours.
 The most difficult thing will be choosing the company name :)
 I'd recommend getting the most popular "Privacy Package".
-You need the first three items in the "What You Get In Each Of Our Packages" table, and the Service Address.
-The Service Address helps to protect your name and address from identity fraud attempts.
-I will revisit this topic further below.
+You need "Registered Office Address" and "Director Service Address".
+The Service Address helps to protect your name and home address from identity fraud attempts.
+I will revisit this topic further below, but in short: it gives you a public address you can use and they'll filter out spam and email scanned copies of letters addressed to you.
 
 Pay for the company incorporation from your personal bank account, you will expense it later.
 
