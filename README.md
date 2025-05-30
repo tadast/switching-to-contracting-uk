@@ -6,7 +6,11 @@ The main goal of this document is to provide an easily replicable process you ca
 I can not claim it is the best process to follow, but it has worked for me and other people who have advised me.
 Use my advice at your own risk.
 
-The post contains some affiliate links, they are denoted with `(aff.)`. I am genuinelly recommending these services because they worked really well for me. Moreover, some of them gives you a sign up bonus too.
+The post contains some affiliate links, they are denoted with `(aff.)`. I am genuinely recommending these services because they've worked really well for me. Moreover, some of them give you a sign up bonus too.
+
+## The current state of IT contracting market in the UK
+
+I've run a survey on this topic in May 2025. You can find the link to the survey and its results in this repo [surveys/2025.md](/surveys/2025.md)
 
 ## Community and contributing
 
